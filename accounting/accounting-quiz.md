@@ -200,7 +200,7 @@
 
 - [ ] Debt asset, credit equity
 - [ ] Debt liablity, credit asset.
-- [ ] Debit asset, credit liability
+- [x] Debit asset, credit liability
 - [ ] Debit equity, credit asset.
 
 #### Q31. Which section of a financial annual report describes the corporation's accounting methods?
